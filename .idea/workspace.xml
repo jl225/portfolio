@@ -19,13 +19,11 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2e0523ba-1e61-47fc-98e1-4c5632e766a8" name="Default Changelist" comment="task: index page">
-      <change afterPath="$PROJECT_DIR$/docs/images/fav2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/style.js" afterDir="false" />
+    <list default="true" id="2e0523ba-1e61-47fc-98e1-4c5632e766a8" name="Default Changelist" comment="task: index page2">
+      <change afterPath="$PROJECT_DIR$/docs/images/title.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/img/astro boi.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/docs/images/astro boi.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/about.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/docs/style.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,9 +33,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="HTML File" />
         <option value="CSS File" />
         <option value="JavaScript File" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -54,12 +52,13 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/docs/img" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/docs/images" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\amber\WebstormProjects\portfolio\docs\images" />
       <recent name="C:\Users\amber\WebstormProjects\portfolio\docs\img" />
     </key>
   </component>
@@ -76,7 +75,8 @@
       <workItem from="1607085317427" duration="1368000" />
       <workItem from="1607120335553" duration="2438000" />
       <workItem from="1607385955673" duration="6421000" />
-      <workItem from="1607408855832" duration="1532000" />
+      <workItem from="1607408855832" duration="1924000" />
+      <workItem from="1607411061920" duration="658000" />
     </task>
     <task id="LOCAL-00001" summary="task: index page">
       <created>1607408047260</created>
@@ -85,7 +85,14 @@
       <option name="project" value="LOCAL" />
       <updated>1607408047261</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="task: index page2">
+      <created>1607410741105</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1607410741105</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -105,7 +112,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="task: index page" />
-    <option name="LAST_COMMIT_MESSAGE" value="task: index page" />
+    <MESSAGE value="task: index page2" />
+    <option name="LAST_COMMIT_MESSAGE" value="task: index page2" />
   </component>
   <component name="WindowStateProjectService">
     <state x="330" y="91" key="#Deployment" timestamp="1607079819082">
@@ -128,9 +136,9 @@
       <screen x="0" y="0" width="1474" height="864" />
     </state>
     <state x="545" y="137" key="Github.UntrackedFilesDialog/0.0.1474.864@0.0.1474.864" timestamp="1607074482302" />
-    <state x="324" y="165" key="Vcs.Push.Dialog.v2" timestamp="1607408049858">
+    <state x="324" y="165" key="Vcs.Push.Dialog.v2" timestamp="1607410742829">
       <screen x="0" y="0" width="1462" height="864" />
     </state>
-    <state x="324" y="165" key="Vcs.Push.Dialog.v2/0.0.1462.864@0.0.1462.864" timestamp="1607408049858" />
+    <state x="324" y="165" key="Vcs.Push.Dialog.v2/0.0.1462.864@0.0.1462.864" timestamp="1607410742829" />
   </component>
 </project>

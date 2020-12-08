@@ -1,25 +1,24 @@
 .navbar a{
-    font-family: 'Nunito', sans-serif, cursive;font-size: 18px;
+    font-family: 'Abel', sans-serif, cursive;font-size: 18px;
 }
 .nav-link span{
-    font-family: 'Nunito', sans-serif, serif;font-size: 18px;color: #ffffff;
+    font-family: 'Abel', sans-serif, serif;font-size: 18px;color: #ffffff;
 }
 .nav-link i{
-    font-family: 'Nunito', sans-serif, serif;font-size: 18px;color: #ffffff;
+    font-family: 'Abel', sans-serif, serif;font-size: 18px;color: #ffffff;
 }
 .nav-link a{
-    font-family: 'Nunito', sans-serif, serif;font-size: 18px;color: #ffffff;
+    font-family: 'Abel', sans-serif, serif;font-size: 18px;color: #ffffff;
 }
 .dropdown-menu a{
-    font-family: 'Nunito', sans-serif, serif;font-size: 16px;color: #16181d;
+    font-family: 'Abel', sans-serif, serif;font-size: 16px;color: #16181d;
 }
 .carousel-inner{ margin-top: 0;
 
 }
 
 .carousel-caption{
-    min-width: 900px;
-    margin-top: 0;
+    min-width: 500px;
 }
 
 footer {

@@ -1,24 +1,26 @@
 .navbar a{
-    font-family: 'Abel', sans-serif, cursive;font-size: 18px;
+    font-family: 'Mulish', sans-serif, cursive; font-weight: normal; font-size: 18px;
 }
 .nav-link span{
-    font-family: 'Abel', sans-serif, serif;font-size: 18px;color: #ffffff;
+    font-family: 'Mulish', sans-serif, cursive; font-weight: normal; font-size: 18px;color: #000000;
 }
 .nav-link i{
-    font-family: 'Abel', sans-serif, serif;font-size: 18px;color: #ffffff;
+    font-family:'Mulish', sans-serif, cursive; font-weight: normal; font-size: 18px;color: #000000;
 }
 .nav-link a{
-    font-family: 'Abel', sans-serif, serif;font-size: 18px;color: #ffffff;
+    font-family: 'Mulish', sans-serif, cursive; font-weight: normal; font-size: 18px;color: #000000;
 }
 .dropdown-menu a{
-    font-family: 'Abel', sans-serif, serif;font-size: 16px;color: #16181d;
+    font-family: 'Mulish', sans-serif, cursive; font-weight: normal; font-size: 18px; color: #16181d;
 }
 .carousel-inner{ margin-top: 0;
 
 }
 
-.carousel-caption{
-    min-width: 500px;
+.carousel-caption {
+    position: relative;
+    left: 0;
+    top: 0;
 }
 
 footer {

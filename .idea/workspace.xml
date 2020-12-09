@@ -19,7 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2e0523ba-1e61-47fc-98e1-4c5632e766a8" name="Default Changelist" comment="Task: final edit2" />
+    <list default="true" id="2e0523ba-1e61-47fc-98e1-4c5632e766a8" name="Default Changelist" comment="Task: readme" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -73,7 +73,7 @@
       <workItem from="1607385955673" duration="6421000" />
       <workItem from="1607408855832" duration="1924000" />
       <workItem from="1607411061920" duration="6057000" />
-      <workItem from="1607417537552" duration="37670000" />
+      <workItem from="1607417537552" duration="37903000" />
     </task>
     <task id="LOCAL-00001" summary="task: index page">
       <created>1607408047260</created>
@@ -187,7 +187,14 @@
       <option name="project" value="LOCAL" />
       <updated>1607498509383</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="Task: readme">
+      <created>1607498852710</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1607498852710</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -220,7 +227,8 @@
     <MESSAGE value="Task: About page" />
     <MESSAGE value="Task: final edit" />
     <MESSAGE value="Task: final edit2" />
-    <option name="LAST_COMMIT_MESSAGE" value="Task: final edit2" />
+    <MESSAGE value="Task: readme" />
+    <option name="LAST_COMMIT_MESSAGE" value="Task: readme" />
   </component>
   <component name="WindowStateProjectService">
     <state x="330" y="91" key="#Deployment" timestamp="1607423687059">
@@ -247,11 +255,11 @@
       <screen x="0" y="0" width="1474" height="864" />
     </state>
     <state x="545" y="137" key="Github.UntrackedFilesDialog/0.0.1474.864@0.0.1474.864" timestamp="1607074482302" />
-    <state x="325" y="165" key="Vcs.Push.Dialog.v2" timestamp="1607498511248">
+    <state x="325" y="165" key="Vcs.Push.Dialog.v2" timestamp="1607498855109">
       <screen x="0" y="0" width="1469" height="864" />
     </state>
     <state x="324" y="165" key="Vcs.Push.Dialog.v2/0.0.1462.864@0.0.1462.864" timestamp="1607415944279" />
-    <state x="325" y="165" key="Vcs.Push.Dialog.v2/0.0.1469.864@0.0.1469.864" timestamp="1607498511248" />
+    <state x="325" y="165" key="Vcs.Push.Dialog.v2/0.0.1469.864@0.0.1469.864" timestamp="1607498855109" />
     <state x="326" y="165" key="Vcs.Push.Dialog.v2/0.0.1473.864@0.0.1473.864" timestamp="1607423336689" />
     <state x="608" y="324" key="publish.login" timestamp="1607428669508">
       <screen x="0" y="0" width="1473" height="864" />

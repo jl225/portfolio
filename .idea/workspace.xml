@@ -19,17 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2e0523ba-1e61-47fc-98e1-4c5632e766a8" name="Default Changelist" comment="11">
-      <change afterPath="$PROJECT_DIR$/docs/images/B612_2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/images/Capture.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/images/GitHub-logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/images/portfol about.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/images/portfol title.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/pdf/Jae-In-Lee.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/pdf/title.pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/deployment.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/deployment.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sshConfigs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sshConfigs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/webServers.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/webServers.xml" afterDir="false" />
+    <list default="true" id="2e0523ba-1e61-47fc-98e1-4c5632e766a8" name="Default Changelist" comment="Task: About page">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/about.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/index.html" afterDir="false" />
@@ -89,7 +79,7 @@
       <workItem from="1607385955673" duration="6421000" />
       <workItem from="1607408855832" duration="1924000" />
       <workItem from="1607411061920" duration="6057000" />
-      <workItem from="1607417537552" duration="23601000" />
+      <workItem from="1607417537552" duration="33596000" />
     </task>
     <task id="LOCAL-00001" summary="task: index page">
       <created>1607408047260</created>
@@ -175,7 +165,14 @@
       <option name="project" value="LOCAL" />
       <updated>1607423335855</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="Task: About page">
+      <created>1607482010327</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1607482010327</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -205,7 +202,8 @@
     <MESSAGE value="9" />
     <MESSAGE value="10" />
     <MESSAGE value="11" />
-    <option name="LAST_COMMIT_MESSAGE" value="11" />
+    <MESSAGE value="Task: About page" />
+    <option name="LAST_COMMIT_MESSAGE" value="Task: About page" />
   </component>
   <component name="WindowStateProjectService">
     <state x="330" y="91" key="#Deployment" timestamp="1607423687059">
@@ -232,15 +230,20 @@
       <screen x="0" y="0" width="1474" height="864" />
     </state>
     <state x="545" y="137" key="Github.UntrackedFilesDialog/0.0.1474.864@0.0.1474.864" timestamp="1607074482302" />
-    <state x="326" y="165" key="Vcs.Push.Dialog.v2" timestamp="1607423336689">
-      <screen x="0" y="0" width="1473" height="864" />
+    <state x="325" y="165" key="Vcs.Push.Dialog.v2" timestamp="1607482012748">
+      <screen x="0" y="0" width="1469" height="864" />
     </state>
     <state x="324" y="165" key="Vcs.Push.Dialog.v2/0.0.1462.864@0.0.1462.864" timestamp="1607415944279" />
+    <state x="325" y="165" key="Vcs.Push.Dialog.v2/0.0.1469.864@0.0.1469.864" timestamp="1607482012748" />
     <state x="326" y="165" key="Vcs.Push.Dialog.v2/0.0.1473.864@0.0.1473.864" timestamp="1607423336689" />
     <state x="608" y="324" key="publish.login" timestamp="1607428669508">
       <screen x="0" y="0" width="1473" height="864" />
     </state>
     <state x="603" y="324" key="publish.login/0.0.1462.864@0.0.1462.864" timestamp="1607417079115" />
     <state x="608" y="324" key="publish.login/0.0.1473.864@0.0.1473.864" timestamp="1607428669508" />
+    <state x="532" y="185" width="672" height="678" key="search.everywhere.popup" timestamp="1607485375694">
+      <screen x="0" y="0" width="1469" height="864" />
+    </state>
+    <state x="532" y="185" width="672" height="678" key="search.everywhere.popup/0.0.1469.864@0.0.1469.864" timestamp="1607485375694" />
   </component>
 </project>

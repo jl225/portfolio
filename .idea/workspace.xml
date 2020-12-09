@@ -19,9 +19,22 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2e0523ba-1e61-47fc-98e1-4c5632e766a8" name="Default Changelist" comment="10">
-      <change afterPath="$PROJECT_DIR$/docs/projects.html" afterDir="false" />
+    <list default="true" id="2e0523ba-1e61-47fc-98e1-4c5632e766a8" name="Default Changelist" comment="11">
+      <change afterPath="$PROJECT_DIR$/docs/images/B612_2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/images/Capture.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/images/GitHub-logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/images/portfol about.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/images/portfol title.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/pdf/Jae-In-Lee.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/pdf/title.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/deployment.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/deployment.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sshConfigs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sshConfigs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/webServers.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/webServers.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/about.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/projects.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/projects.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/docs/style.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,6 +70,7 @@
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\amber\WebstormProjects\portfolio\docs\images" />
+      <recent name="C:\Users\amber\WebstormProjects\portfolio\docs\pdf" />
       <recent name="C:\Users\amber\WebstormProjects\portfolio\docs\img" />
     </key>
   </component>
@@ -75,7 +89,7 @@
       <workItem from="1607385955673" duration="6421000" />
       <workItem from="1607408855832" duration="1924000" />
       <workItem from="1607411061920" duration="6057000" />
-      <workItem from="1607417537552" duration="4916000" />
+      <workItem from="1607417537552" duration="23601000" />
     </task>
     <task id="LOCAL-00001" summary="task: index page">
       <created>1607408047260</created>
@@ -154,7 +168,14 @@
       <option name="project" value="LOCAL" />
       <updated>1607420919784</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="11">
+      <created>1607423335855</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1607423335855</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -183,23 +204,26 @@
     <MESSAGE value="8" />
     <MESSAGE value="9" />
     <MESSAGE value="10" />
-    <option name="LAST_COMMIT_MESSAGE" value="10" />
+    <MESSAGE value="11" />
+    <option name="LAST_COMMIT_MESSAGE" value="11" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="330" y="91" key="#Deployment" timestamp="1607417957348">
+    <state x="330" y="91" key="#Deployment" timestamp="1607423687059">
       <screen x="0" y="0" width="1473" height="864" />
     </state>
-    <state x="330" y="91" key="#Deployment/0.0.1473.864@0.0.1473.864" timestamp="1607417957348" />
+    <state x="330" y="91" key="#Deployment/0.0.1473.864@0.0.1473.864" timestamp="1607423687059" />
     <state x="330" y="91" key="#Deployment/0.0.1474.864@0.0.1474.864" timestamp="1607079819082" />
-    <state x="314" y="78" key="#SSH_Configurations" timestamp="1607417956157">
+    <state x="314" y="78" key="#SSH_Configurations" timestamp="1607423682183">
       <screen x="0" y="0" width="1473" height="864" />
     </state>
-    <state x="314" y="78" key="#SSH_Configurations/0.0.1473.864@0.0.1473.864" timestamp="1607417956157" />
+    <state x="314" y="78" key="#SSH_Configurations/0.0.1473.864@0.0.1473.864" timestamp="1607423682183" />
     <state x="314" y="78" key="#SSH_Configurations/0.0.1474.864@0.0.1474.864" timestamp="1607079816342" />
-    <state x="628" y="263" key="FileChooserDialogImpl" timestamp="1607409859460">
-      <screen x="0" y="0" width="1462" height="864" />
+    <state x="631" y="263" key="FileChooserDialogImpl" timestamp="1607438353408">
+      <screen x="0" y="0" width="1469" height="864" />
     </state>
     <state x="628" y="263" key="FileChooserDialogImpl/0.0.1462.864@0.0.1462.864" timestamp="1607409859460" />
+    <state x="631" y="263" key="FileChooserDialogImpl/0.0.1469.864@0.0.1469.864" timestamp="1607438353408" />
+    <state x="633" y="263" key="FileChooserDialogImpl/0.0.1473.864@0.0.1473.864" timestamp="1607426038850" />
     <state x="616" y="330" key="Github.ShareDialog" timestamp="1607074477623">
       <screen x="0" y="0" width="1474" height="864" />
     </state>
@@ -208,15 +232,15 @@
       <screen x="0" y="0" width="1474" height="864" />
     </state>
     <state x="545" y="137" key="Github.UntrackedFilesDialog/0.0.1474.864@0.0.1474.864" timestamp="1607074482302" />
-    <state x="326" y="165" key="Vcs.Push.Dialog.v2" timestamp="1607420926140">
+    <state x="326" y="165" key="Vcs.Push.Dialog.v2" timestamp="1607423336689">
       <screen x="0" y="0" width="1473" height="864" />
     </state>
     <state x="324" y="165" key="Vcs.Push.Dialog.v2/0.0.1462.864@0.0.1462.864" timestamp="1607415944279" />
-    <state x="326" y="165" key="Vcs.Push.Dialog.v2/0.0.1473.864@0.0.1473.864" timestamp="1607420926140" />
-    <state x="608" y="324" key="publish.login" timestamp="1607420426384">
+    <state x="326" y="165" key="Vcs.Push.Dialog.v2/0.0.1473.864@0.0.1473.864" timestamp="1607423336689" />
+    <state x="608" y="324" key="publish.login" timestamp="1607428669508">
       <screen x="0" y="0" width="1473" height="864" />
     </state>
     <state x="603" y="324" key="publish.login/0.0.1462.864@0.0.1462.864" timestamp="1607417079115" />
-    <state x="608" y="324" key="publish.login/0.0.1473.864@0.0.1473.864" timestamp="1607420426384" />
+    <state x="608" y="324" key="publish.login/0.0.1473.864@0.0.1473.864" timestamp="1607428669508" />
   </component>
 </project>

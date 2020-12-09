@@ -1,27 +1,32 @@
 .navbar a{
-    font-family: 'Mulish', sans-serif, cursive; font-weight: normal; font-size: 18px;
+    font-family: 'Mulish', sans-serif; font-weight: normal; font-size: 20px;color: #6ba7b5;
+    text-align: center;
 }
 .nav-link span{
-    font-family: 'Mulish', sans-serif, cursive; font-weight: normal; font-size: 18px;color: #000000;
+    font-family: 'Padauk', sans-serif, cursive; font-weight: normal; font-size: 10px;color: #9b6a6a;
 }
 .nav-link i{
-    font-family:'Mulish', sans-serif, cursive; font-weight: normal; font-size: 18px;color: #000000;
+    font-family:'Padauk', sans-serif, cursive; font-weight: normal; font-size: 20px;color: #ffffff;
 }
 .nav-link a{
-    font-family: 'Mulish', sans-serif, cursive; font-weight: normal; font-size: 18px;color: #000000;
+    font-family: 'Padauk', sans-serif, cursive; font-weight: normal; font-size: 20px;color: #ffffff;
 }
 .dropdown-menu a{
-    font-family: 'Mulish', sans-serif, cursive; font-weight: normal; font-size: 18px; color: #16181d;
+    font-family: 'Padauk', sans-serif, cursive; font-weight: normal; font-size: 20px; color: #ffffff;
+}
+.nav {
+    text-align: center;
+}
+
+.navbar-nav .nav-item {
+    float: inherit;
+    display: inline-block;
 }
 .carousel-inner{ margin-top: 0;
 
 }
 
 .carousel-caption {
-    position: relative;
-    left: 0;
-    top: 0;
-    color: #16181d;
 }
 
 footer {
@@ -57,8 +62,8 @@ footer {
 .circular--landscape {
     display: inline-block;
 
-    width: 260px;
-    height:260px;
+    width: 200px;
+    height:200px;
     overflow: hidden;
     border-radius: 50%;
 
@@ -72,9 +77,6 @@ footer {
 }
 .circular2--landscape {
     display: inline-block;
-
-    width: 180px;
-    height: 180px;
     overflow: hidden;
     border-radius: 9%;
 

@@ -2,7 +2,7 @@
 <project version="4">
   <component name="SshConfigs">
     <configs>
-      <sshConfig authType="PASSWORD" host="afs15.njit.edu" id="55976403-4d8e-4bc6-b168-73727eebf695" port="22" nameFormat="DESCRIPTIVE" username="jl225" />
+      <sshConfig authType="PASSWORD" host="afs13.njit.edu" id="55976403-4d8e-4bc6-b168-73727eebf695" port="22" nameFormat="DESCRIPTIVE" username="jl225" />
     </configs>
   </component>
 </project>

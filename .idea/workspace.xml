@@ -19,7 +19,10 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2e0523ba-1e61-47fc-98e1-4c5632e766a8" name="Default Changelist" comment="Task: readme" />
+    <list default="true" id="2e0523ba-1e61-47fc-98e1-4c5632e766a8" name="Default Changelist" comment="Task: Google Analytics">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/projects.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/projects.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -47,7 +50,7 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/docs/pdf" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
@@ -74,6 +77,8 @@
       <workItem from="1607408855832" duration="1924000" />
       <workItem from="1607411061920" duration="6057000" />
       <workItem from="1607417537552" duration="37903000" />
+      <workItem from="1607502168414" duration="140000" />
+      <workItem from="1607531831049" duration="379000" />
     </task>
     <task id="LOCAL-00001" summary="task: index page">
       <created>1607408047260</created>
@@ -194,7 +199,14 @@
       <option name="project" value="LOCAL" />
       <updated>1607498852710</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="Task: Google Analytics">
+      <created>1607502290350</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1607502290350</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -228,7 +240,8 @@
     <MESSAGE value="Task: final edit" />
     <MESSAGE value="Task: final edit2" />
     <MESSAGE value="Task: readme" />
-    <option name="LAST_COMMIT_MESSAGE" value="Task: readme" />
+    <MESSAGE value="Task: Google Analytics" />
+    <option name="LAST_COMMIT_MESSAGE" value="Task: Google Analytics" />
   </component>
   <component name="WindowStateProjectService">
     <state x="330" y="91" key="#Deployment" timestamp="1607423687059">
@@ -255,11 +268,11 @@
       <screen x="0" y="0" width="1474" height="864" />
     </state>
     <state x="545" y="137" key="Github.UntrackedFilesDialog/0.0.1474.864@0.0.1474.864" timestamp="1607074482302" />
-    <state x="325" y="165" key="Vcs.Push.Dialog.v2" timestamp="1607498855109">
+    <state x="325" y="165" key="Vcs.Push.Dialog.v2" timestamp="1607502292354">
       <screen x="0" y="0" width="1469" height="864" />
     </state>
     <state x="324" y="165" key="Vcs.Push.Dialog.v2/0.0.1462.864@0.0.1462.864" timestamp="1607415944279" />
-    <state x="325" y="165" key="Vcs.Push.Dialog.v2/0.0.1469.864@0.0.1469.864" timestamp="1607498855109" />
+    <state x="325" y="165" key="Vcs.Push.Dialog.v2/0.0.1469.864@0.0.1469.864" timestamp="1607502292354" />
     <state x="326" y="165" key="Vcs.Push.Dialog.v2/0.0.1473.864@0.0.1473.864" timestamp="1607423336689" />
     <state x="608" y="324" key="publish.login" timestamp="1607428669508">
       <screen x="0" y="0" width="1473" height="864" />

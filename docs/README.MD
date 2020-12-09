@@ -1,8 +1,7 @@
-Project by Jae Lee and Behartheja Thondapi
+Project by Jae Lee
 
-This is a team project website. It contains pages with contents we learned in class about the history of the internet. We use bootstrap and css to 
-put the website together.
+I made this website for the purpose of showcasing my previous projects, resume, skills and a short introduction about myself.
 
-Design Layout Mockup: https://www.figma.com/file/rW251qTEzfVQmYcUPyLYZS/Team-Project---About-page?node-id=0%3A1
+Design Layout Mockup: https://jl225.github.io/portfolio/pdf/portfol%20layout.pdf
 
 Github Website Link: https://jl225.github.io/portfolio/

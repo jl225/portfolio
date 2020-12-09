@@ -20,13 +20,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2e0523ba-1e61-47fc-98e1-4c5632e766a8" name="Default Changelist" comment="Task: final edit">
-      <change afterPath="$PROJECT_DIR$/docs/images/catt.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/images/fav.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/images/gettyimages-505596421-2048x2048.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/images/spaice.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/projects.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/projects.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,7 +49,7 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/docs/images" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../marketinganddataprivacy" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
@@ -81,7 +75,7 @@
       <workItem from="1607385955673" duration="6421000" />
       <workItem from="1607408855832" duration="1924000" />
       <workItem from="1607411061920" duration="6057000" />
-      <workItem from="1607417537552" duration="35448000" />
+      <workItem from="1607417537552" duration="37309000" />
     </task>
     <task id="LOCAL-00001" summary="task: index page">
       <created>1607408047260</created>
@@ -181,7 +175,14 @@
       <option name="project" value="LOCAL" />
       <updated>1607493761968</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="Task: final edit">
+      <created>1607495452455</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1607495452455</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -226,11 +227,11 @@
     </state>
     <state x="314" y="78" key="#SSH_Configurations/0.0.1473.864@0.0.1473.864" timestamp="1607423682183" />
     <state x="314" y="78" key="#SSH_Configurations/0.0.1474.864@0.0.1474.864" timestamp="1607079816342" />
-    <state x="631" y="263" key="FileChooserDialogImpl" timestamp="1607493735075">
+    <state x="631" y="263" key="FileChooserDialogImpl" timestamp="1607497196790">
       <screen x="0" y="0" width="1469" height="864" />
     </state>
     <state x="628" y="263" key="FileChooserDialogImpl/0.0.1462.864@0.0.1462.864" timestamp="1607409859460" />
-    <state x="631" y="263" key="FileChooserDialogImpl/0.0.1469.864@0.0.1469.864" timestamp="1607493735075" />
+    <state x="631" y="263" key="FileChooserDialogImpl/0.0.1469.864@0.0.1469.864" timestamp="1607497196790" />
     <state x="633" y="263" key="FileChooserDialogImpl/0.0.1473.864@0.0.1473.864" timestamp="1607426038850" />
     <state x="616" y="330" key="Github.ShareDialog" timestamp="1607074477623">
       <screen x="0" y="0" width="1474" height="864" />
@@ -240,11 +241,11 @@
       <screen x="0" y="0" width="1474" height="864" />
     </state>
     <state x="545" y="137" key="Github.UntrackedFilesDialog/0.0.1474.864@0.0.1474.864" timestamp="1607074482302" />
-    <state x="325" y="165" key="Vcs.Push.Dialog.v2" timestamp="1607493764984">
+    <state x="325" y="165" key="Vcs.Push.Dialog.v2" timestamp="1607495454802">
       <screen x="0" y="0" width="1469" height="864" />
     </state>
     <state x="324" y="165" key="Vcs.Push.Dialog.v2/0.0.1462.864@0.0.1462.864" timestamp="1607415944279" />
-    <state x="325" y="165" key="Vcs.Push.Dialog.v2/0.0.1469.864@0.0.1469.864" timestamp="1607493764984" />
+    <state x="325" y="165" key="Vcs.Push.Dialog.v2/0.0.1469.864@0.0.1469.864" timestamp="1607495454802" />
     <state x="326" y="165" key="Vcs.Push.Dialog.v2/0.0.1473.864@0.0.1473.864" timestamp="1607423336689" />
     <state x="608" y="324" key="publish.login" timestamp="1607428669508">
       <screen x="0" y="0" width="1473" height="864" />

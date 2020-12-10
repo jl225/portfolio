@@ -19,10 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2e0523ba-1e61-47fc-98e1-4c5632e766a8" name="Default Changelist" comment="Task: Google Analytics">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/projects.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/projects.html" afterDir="false" />
-    </list>
+    <list default="true" id="2e0523ba-1e61-47fc-98e1-4c5632e766a8" name="Default Changelist" comment="Task: edits" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -78,7 +75,7 @@
       <workItem from="1607411061920" duration="6057000" />
       <workItem from="1607417537552" duration="37903000" />
       <workItem from="1607502168414" duration="140000" />
-      <workItem from="1607531831049" duration="379000" />
+      <workItem from="1607531831049" duration="406000" />
     </task>
     <task id="LOCAL-00001" summary="task: index page">
       <created>1607408047260</created>
@@ -206,7 +203,14 @@
       <option name="project" value="LOCAL" />
       <updated>1607502290350</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="Task: edits">
+      <created>1607532233295</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1607532233295</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -241,7 +245,8 @@
     <MESSAGE value="Task: final edit2" />
     <MESSAGE value="Task: readme" />
     <MESSAGE value="Task: Google Analytics" />
-    <option name="LAST_COMMIT_MESSAGE" value="Task: Google Analytics" />
+    <MESSAGE value="Task: edits" />
+    <option name="LAST_COMMIT_MESSAGE" value="Task: edits" />
   </component>
   <component name="WindowStateProjectService">
     <state x="330" y="91" key="#Deployment" timestamp="1607423687059">
@@ -268,11 +273,12 @@
       <screen x="0" y="0" width="1474" height="864" />
     </state>
     <state x="545" y="137" key="Github.UntrackedFilesDialog/0.0.1474.864@0.0.1474.864" timestamp="1607074482302" />
-    <state x="325" y="165" key="Vcs.Push.Dialog.v2" timestamp="1607502292354">
-      <screen x="0" y="0" width="1469" height="864" />
+    <state x="325" y="165" key="Vcs.Push.Dialog.v2" timestamp="1607532236078">
+      <screen x="0" y="0" width="1471" height="864" />
     </state>
     <state x="324" y="165" key="Vcs.Push.Dialog.v2/0.0.1462.864@0.0.1462.864" timestamp="1607415944279" />
     <state x="325" y="165" key="Vcs.Push.Dialog.v2/0.0.1469.864@0.0.1469.864" timestamp="1607502292354" />
+    <state x="325" y="165" key="Vcs.Push.Dialog.v2/0.0.1471.864@0.0.1471.864" timestamp="1607532236078" />
     <state x="326" y="165" key="Vcs.Push.Dialog.v2/0.0.1473.864@0.0.1473.864" timestamp="1607423336689" />
     <state x="608" y="324" key="publish.login" timestamp="1607428669508">
       <screen x="0" y="0" width="1473" height="864" />
